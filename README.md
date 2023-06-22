@@ -1,6 +1,6 @@
 # Rust Guessing Game
 
-A simple guessing game so i can get more comfortable with Rust syntax
+A simple guessing game so i can get more comfortable with Rust syntax.
 
 
 
